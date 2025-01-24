@@ -1,0 +1,16 @@
+st7789_407\lv_font.o: ..\lvgl\src\font\lv_font.c
+st7789_407\lv_font.o: ..\lvgl\src\font\lv_font.h
+st7789_407\lv_font.o: ..\lvgl\src\font\../lv_conf_internal.h
+st7789_407\lv_font.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+st7789_407\lv_font.o: ..\lvgl\src\font\../lv_conf_kconfig.h
+st7789_407\lv_font.o: ../lvgl/examples/porting/../../lv_conf.h
+st7789_407\lv_font.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+st7789_407\lv_font.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+st7789_407\lv_font.o: ..\lvgl\src\font\lv_symbol_def.h
+st7789_407\lv_font.o: ..\lvgl\src\font\../misc/lv_area.h
+st7789_407\lv_font.o: ..\lvgl\src\font\../misc/lv_utils.h
+st7789_407\lv_font.o: ..\lvgl\src\font\../misc/lv_log.h
+st7789_407\lv_font.o: ..\lvgl\src\font\../misc/lv_types.h
+st7789_407\lv_font.o: ..\lvgl\src\font\../misc/lv_assert.h
+st7789_407\lv_font.o: ..\lvgl\src\font\../misc/lv_mem.h
+st7789_407\lv_font.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
